@@ -12,7 +12,7 @@
 * Set comprehentions
 * Generator comprehentions
 
-## List COmprehention [It will generate new list]
+## List Comprehention [It will generate new list]
 ## Syntax : [expression for item in iterable if condition]
 
     ls=[i*i for i in range(6) if i%2 != 0]

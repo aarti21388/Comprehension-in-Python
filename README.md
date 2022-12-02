@@ -19,4 +19,5 @@
 
 ## Dict Comprehention [It will generate new Dictionary]
 
+![Screenshot_20221202_121329_YouTube](https://user-images.githubusercontent.com/116127790/205382660-ba6ad74b-b6b5-45b5-889f-98655290a2ce.jpg)
 

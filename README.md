@@ -21,4 +21,5 @@
     Output:[1,9,25]
 
 
-Screenshot_20221202_112242_YouTube.jpg
+
+![Screenshot_20221202_112242_YouTube](https://user-images.githubusercontent.com/116127790/205371547-cb57a10d-69e2-4ae4-a163-20ef3e9794af.jpg)

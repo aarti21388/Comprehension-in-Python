@@ -22,3 +22,6 @@
 ![Screenshot_20221202_121329_YouTube](https://user-images.githubusercontent.com/116127790/205382660-ba6ad74b-b6b5-45b5-889f-98655290a2ce.jpg)
 
 ## Set Comprehention [It will generate new Set]
+![Screenshot_20221202_124930_YouTube](https://user-images.githubusercontent.com/116127790/205387748-32362d34-978f-4279-9a27-e74e2619b8fb.jpg)
+![Screenshot_20221202_125435_YouTube](https://user-images.githubusercontent.com/116127790/205387760-c761b593-b58e-4e91-99a0-9fe713310ed4.jpg)
+![Screenshot_20221202_125503_YouTube](https://user-images.githubusercontent.com/116127790/205387768-8e3f5230-2804-4dd9-a1e2-b43979cb3bf4.jpg)

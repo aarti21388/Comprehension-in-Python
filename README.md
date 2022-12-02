@@ -13,13 +13,10 @@
 * Generator comprehentions
 
 ## List Comprehention [It will generate new list]
-## Syntax : [expression for item in iterable if condition]
-
-    ls=[i*i for i in range(6) if i%2 != 0]
-    print(ls)
-
-    Output:[1,9,25]
-
 
 
 ![Screenshot_20221202_112242_YouTube](https://user-images.githubusercontent.com/116127790/205371547-cb57a10d-69e2-4ae4-a163-20ef3e9794af.jpg)
+
+## Dict Comprehention [It will generate new Dictionary]
+
+
